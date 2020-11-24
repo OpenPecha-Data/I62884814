@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4006
   title: གཡུ་ཐོག་ཆ་ལག་བཅོ་བརྒྱད་
-  volume: ''
+  volume:
+    1db42bac48c84472b9d012e90290a7c5:
+      image_group_id: I1KG4082
+      title: Volume 1 of g.yu thog cha lag bco brgyad
+      volume_number: 1
+      total_pages: 540
+    342eaa6a298e464c841eb37b2883b74c:
+      image_group_id: I1KG4083
+      title: Volume 2 of g.yu thog cha lag bco brgyad
+      volume_number: 2
+      total_pages: 514
   author: ''
+ebook_metadata:
+  title: གཡུ་ཐོག་ཆ་ལག་བཅོ་བརྒྱད་
+  author: ''
+  sku: P007842
+  cover: cover.jpg
+  layers:
+  - pagination
