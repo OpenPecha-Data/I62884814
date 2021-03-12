@@ -5,16 +5,18 @@ source_metadata:
   title: གཡུ་ཐོག་ཆ་ལག་བཅོ་བརྒྱད་
   author: ''
   volumes:
-    901b58e3efe843b5bc55949be99e2ac7:
+    1db42bac48c84472b9d012e90290a7c5:
       image_group_id: I1KG4082
-      title: ''
+      title: Volume 1 of g.yu thog cha lag bco brgyad
       volume_number: 1
       total_pages: 540
-    7f7249d352a54311aa2ca7910b354ac3:
+      base_file: v001.txt
+    342eaa6a298e464c841eb37b2883b74c:
       image_group_id: I1KG4083
-      title: ''
+      title: Volume 2 of g.yu thog cha lag bco brgyad
       volume_number: 2
       total_pages: 514
+      base_file: v002.txt
 ebook_metadata:
   title: གཡུ་ཐོག་ཆ་ལག་བཅོ་བརྒྱད་
   author: ''
